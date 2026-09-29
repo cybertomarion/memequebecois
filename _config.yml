@@ -1,0 +1,6 @@
+title: Mèmes québécois
+description: Une collection de mèmes québécois.
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
