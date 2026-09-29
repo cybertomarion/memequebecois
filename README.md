@@ -9,4 +9,4 @@ Le projet sera terminé sous peu! Écrivez-moi un courriel si vous voulez: cyber
 
 (https://cybertoencavale.wordpress.com/2025/09/29/hello-world/)
 
-<meta name="google-site-verification" content="1WD2RGwHB7vrgZ4JJ0LUhpQE8fmnCL6GyZt6hm12h9I"/>
+<meta name="google-site-verification" content="1WD2RGwHB7vrgZ4JJ0LUhpQE8fmnCL6GyZt6hm12h9I" />
