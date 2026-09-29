@@ -1,5 +1,5 @@
 # memequebecois
-Bonjour à tous. Je suis de Saguenay et j'aime les mémé québécois et les projets open source.
+Bonjour à tous. J'aime les mémé québécois et les projets open source.
 
 Suivez-moi sur X: @cybertoencavale
 
